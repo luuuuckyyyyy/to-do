@@ -1,0 +1,33 @@
+.App > div {
+  margin-right: 50px;
+  margin-top: 1000px;
+  
+}
+
+
+.App {
+  padding: 30px;
+  display: flex;
+
+}
+
+.error {
+  border: red 1px solid;
+  width: auto
+
+}
+
+.error-massage{
+  color: red;
+
+}
+
+.active{
+  color: yellow;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.is-done{
+  opacity: 0.5;
+}
